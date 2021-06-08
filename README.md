@@ -13,7 +13,7 @@ My Info:
 
 ### 📈 My Github Stats 
 
-![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saarthak-Slathia&show_icons=true&theme=highcontrast)
+![Saarthak Slathia's GitHub statistics](https://github-readme-stats.vercel.app/api?username=Saarthak-Slathia&show_icons=true&theme=highcontrast)
 
 ---
 
