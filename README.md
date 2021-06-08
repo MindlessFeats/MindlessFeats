@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+**I am Saarthak Slathia. I have multiple repoitories of Python, JavaScript etc. You can cheeck it out below at my Github Stats.
+
+My Info:
 
 - 🔭 I’m currently working on Python Game Development
 - 🌱 I’m currently learning Python
