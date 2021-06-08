@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-**I am Saarthak Slathia. I have multiple repoitories of Python, JavaScript etc. You can cheeck it out below at my Github Stats.
+I am Saarthak Slathia. I have multiple repoitories of Python, JavaScript etc. You can cheeck it out below at my Github Stats.
 
 My Info:
 
 - 🔭 I’m currently working on Python Game Development
 - 🌱 I’m currently learning Python
 - ⚡ Fun fact: I like playing Cricket 😜🏏
+- 🚀 I'm a big fan of Space Science
 
 ---
 
@@ -24,3 +25,8 @@ My Info:
 ### My Wakatime Stats
 [![Saarthak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saarthak_Slathia)](https://github.com/Saarthak_Slathia/github-readme-stats)
 
+---
+
+### Popular Repositories
+[![Green Planet](https://github-readme-stats.vercel.app/api/pin/?username=Saarthak-Slathia&repo=github-readme-stats)](https://github.com/Saarthak-Slathia/Green-Planet)
+[![Eco Saviour](https://github-readme-stats.vercel.app/api/pin/?username=Saarthak-Slathia&repo=github-readme-stats)](https://github.com/Saarthak-Slathia/Eco-Saviour)
