@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 
 ## My Recent Activity
 
-<!-- START_SECTION:waka
-END_SECTION:waka
- -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
