@@ -27,6 +27,5 @@ My Info:
 
 ---
 
-### Popular Repositories
-[![Green Planet](https://github-readme-stats.vercel.app/api/pin/?username=Saarthak-Slathia&repo=github-readme-stats)](https://github.com/Saarthak-Slathia/Green-Planet)
-[![Eco Saviour](https://github-readme-stats.vercel.app/api/pin/?username=Saarthak-Slathia&repo=github-readme-stats)](https://github.com/Saarthak-Slathia/Eco-Saviour)
+#### That's not over yet! Check out my repositories and if you find them useful, give it a ⭐ You can also find my contribution activity below ⬇
+### Thank You 🙏🏻
