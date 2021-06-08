@@ -25,4 +25,3 @@ My Info:
 [![Saarthak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saarthak_Slathia)](https://github.com/Saarthak_Slathia/github-readme-stats)
 
 ---
-https://img.shields.io/badge/Codepen-Saarthak--Slathia-brightgreen
