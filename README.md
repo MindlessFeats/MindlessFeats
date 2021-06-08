@@ -23,7 +23,7 @@ My Info:
 
 
 ### My Wakatime Stats
-[![Saarthak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saarthak_Slathia)](https://github.com/Saarthak_Slathia/github-readme-stats)
+[![Saarthak's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saarthak_Slathia)](https://github.com/Saarthak_Slathia/github-readme-stats)
 
 ---
 
