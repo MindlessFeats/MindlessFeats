@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ---
 
-## Most used languages
+### Most used languages
 
 ![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Saarthak-Slathia&layout=compact&show_icons=true&theme=highcontrast)
 
 
-### Stats
+### My Wakatime Stats
 [![Saarthak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saarthak_Slathia)](https://github.com/Saarthak_Slathia/github-readme-stats&show_icons=true&theme=highcontrast)
