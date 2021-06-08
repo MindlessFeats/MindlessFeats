@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 
 ### My Wakatime Stats
-[![Saarthak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saarthak_Slathia)](https://github.com/Saarthak_Slathia/github-readme-stats&show_icons=true&theme=highcontrast)
+[![Saarthak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saarthak_Slathia)](https://github.com/Saarthak_Slathia/github-readme-stats)
 
 ---
