@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 
 ## 📈 My Github Stats 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saarthak-Slathia&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![Saarthak Github Stats](https://github-readme-stats.vercel.app/api?username=Saarthak-Slathia)](https://github.com/Saarthak-Slathia/github-readme-stats)
+
 
 ## My Recent Activity
 
