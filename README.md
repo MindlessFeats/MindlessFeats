@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Python Game Development
 - 🌱 I’m currently learning Python
-- ⚡ Fun fact: I like Cricket 😜🏏
+- ⚡ Fun fact: I like playing Cricket 😜🏏
 
 ## 📈 My Github Stats 
 
