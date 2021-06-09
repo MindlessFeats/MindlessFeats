@@ -1,13 +1,14 @@
-### Hi there 👋
+### Hi there 👋✨
 
-I am Saarthak Slathia. I have multiple repoitories of Python, JavaScript etc. You can cheeck it out below at my Github Stats.
+I am Saarthak Slathia. I have multiple repositories of Python, JavaScript etc. You can check it out below 👇🏻. Also take a look at my Github Stats.
 
 My Info:
 
-- 🔭 I’m currently working on Python Game Development
-- 🌱 I’m currently learning Python
-- ⚡ Fun fact: I like playing Cricket 😜🏏
-- 🚀 I'm a big fan of Space Science
+- 🔭 I’m currently working on Backend
+- 🌱 I’m currently learning Node.Js
+- ⚡ Fun fact: I am good in Cricket
+- 🚀 I like Space Science 👩🏻‍🚀
+- 🏏 Favourite Sport: Cricket
 
 ---
 
