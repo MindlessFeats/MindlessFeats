@@ -20,7 +20,7 @@ My Info:
 
 ### Most used languages
 
-![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Saarthak-Slathia&layout=compact&theme=highcontrast)
+![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Saarthak-Slathia&hide=javascript,html&layout=compact&theme=highcontrast)
 
 ---
 
