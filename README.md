@@ -4,8 +4,8 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript etc. Y
 
 My Info:
 
-- 🔭 I’m currently learning Java
-- 🌱 I’m currently learning Node.Js
+- 🔭 I’m working on Java programs
+- 🌱 I’m currently learning Java
 - ⚡ Fun fact: I am good in Cricket
 - 🚀 I like Space Science 👩🏻‍🚀
 - 🏏 Favourite Sport: Cricket
