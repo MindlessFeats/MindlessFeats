@@ -1,4 +1,4 @@
-### Hi there 👋✨
+## Hi There 👋✨
 
 I am Saarthak Slathia. I have multiple repositories of Python, JavaScript etc. You can check it out below 👇🏻. Also take a look at my Github Stats.
 
