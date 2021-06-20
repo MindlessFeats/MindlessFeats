@@ -21,7 +21,7 @@ My Info:
 ### Most used languages
 
 ![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Saarthak-Slathia&hide=html,css,c&layout=compact)
-
+ 
 ---
 
 #### That's not over yet! Check out my repositories and if you find them useful, give it a ⭐ You can also find my contribution activity below ⬇
