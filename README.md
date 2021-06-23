@@ -25,8 +25,9 @@ My Info:
 ---
 
 ### Programming Activity
----
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Saarthak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saarthak_Slathia)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 #### That's not over yet! Check out my repositories and if you find them useful, give it a ⭐ You can also find my contribution activity below ⬇
