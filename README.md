@@ -14,13 +14,13 @@ My Info:
 
 ### 📈 My Github Stats 
 
-![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saarthak-Slathia&bg_color=20,synthwave,highcontrast)
+![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saarthak-Slathia&bg_color=synthwave&show_icons=true)
 
 ---
 
 ### Most used languages
 
-![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Saarthak-Slathia&hide=html,css,c&layout=compact)
+![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Saarthak-Slathia&hide=html,css,c&layout=compact&show_icons=true)
  
 ---
 
