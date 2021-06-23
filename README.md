@@ -14,7 +14,7 @@ My Info:
 
 ### 📈 My Github Stats 
 
-![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saarthak-Slathia&bg_color=20,red,blue,white)
+![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saarthak-Slathia&bg_color=20,synthwave,highcontrast)
 
 ---
 
