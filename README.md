@@ -26,7 +26,7 @@ My Info:
 
 ### Programming Activity
 
-[![Saarthak's wakatime stats](https://github-readme-stats.vercel.app/3f826d17-81b4-460f-ac87-4338c9be897d/wakatime?username=Saarthak_Slathia&theme=algolia)](https://github.com/Saarthak-Slathia/Covid-19-India)
+[![Saarthak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saarthak_Slathia&theme=algolia)](https://github.com/Saarthak-Slathia/Covid-19-India)
 
 ---
 
