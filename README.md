@@ -22,8 +22,6 @@ My Info:
 
 ![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Saarthak-Slathia&hide=html,css,c&layout=compact&show_icons=true&show_icons=true&theme=vision-friendly-dark)
 
-
-![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=RishitCoder&layout=compact&show_icons=true&show_icons=true&theme=vision-friendly-dark)
  
 ---
 
