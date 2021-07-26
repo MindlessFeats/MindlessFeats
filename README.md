@@ -7,7 +7,7 @@ My Info:
 - 🔭 I’m working on Java programs
 - 🌱 I’m currently learning Java
 - ⚡ Fun fact: I am good in Cricket
-- 🚀 I like Space Science 👩🏻‍🚀
+- 🚀 I like Space Science ![ Hi There](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/alien.gif?raw=true)
 - 🏏 Favourite Sport: Cricket
 
 ---
