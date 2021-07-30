@@ -25,11 +25,11 @@ My Info:
  
 ---
 
-### Programming Activity
+<!-- ### Programming Activity
 
-[![Saarthak's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saarthak_Slathia&theme=algolia)](https://github.com/Saarthak-Slathia/Coronavirus-Tracker)
+[![Saarthak's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saarthak_Slathia&theme=algolia)](https://github.com/Saarthak-Slathia/Coronavirus-Tracker) -->
 
----
+<!--  --- -->
 
 #### That's not over yet! Check out my repositories and if you find them useful, give it a ⭐ You can also find my contribution activity below ⬇
 ### Thank You 🎉
