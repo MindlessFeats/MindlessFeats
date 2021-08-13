@@ -14,7 +14,7 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript etc. Y
 
 ### 📈 My Github Stats  
 
-![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saarthak-Slathia&theme=midnight-purple&show_icons=true)
+![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saarthak-Slathia&theme=react&show_icons=true)
 
 ---
 
