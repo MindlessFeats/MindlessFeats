@@ -4,7 +4,7 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript etc. Y
 
 #### My Info:
 
-- 🔭 I’m working on Back-end Development.
+- 🔭 I’m working on Node.Js
 - 🌱 I’m currently learning Backend Development.
 - ⚡ Fun fact: I am good in Cricket
 - 🚀 I like Space Science ! 🌌
