@@ -36,6 +36,7 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript etc. Y
 
 ![Wow](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/hushed_face.gif)
 ![Wooww!!!](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/exploding_head.gif)
+![Amazing](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/hugging_face.gif)
 
 <!-- ### Programming Activity
 [![Saarthak Slathia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=slathia)](https://github.com/anuraghazra/github-readme-stats) -->
