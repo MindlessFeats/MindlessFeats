@@ -32,7 +32,7 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript etc. Y
 <!--  --- -->
 
 
-![hi](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/any%20key.gif)
+![hi](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/cat.gif?raw=true)
 
 
 #### That's not over yet! Check out my repositories and if you find them useful, give it a ⭐ You can also find my contribution activity below ⬇
