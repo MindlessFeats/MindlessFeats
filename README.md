@@ -22,8 +22,6 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript etc. Y
 
 ![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Saarthak-Slathia&layout=compact&show_icons=true&show_icons=true&theme=gruvbox&hide-langs=html,css&langs_count=15)
 
-<br>
-
 ---
 
 ### Languages and Tools: 
