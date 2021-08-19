@@ -41,8 +41,8 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript etc. Y
 
 <!-- ### Programming Activity
 
-[![Saarthak's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saarthak_Slathia&theme=algolia)](https://github.com/Saarthak-Slathia/Coronavirus-Tracker)
- -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saarthak_Slathia)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--  --- -->
 
 
