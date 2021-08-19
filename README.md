@@ -2,8 +2,6 @@
 
 I am Saarthak Slathia. I have multiple repositories of Python, JavaScript etc. You can check it out 👇🏻. Also take a look at my Github Stats. 
 
-![hi]()
-
 #### My Info:
 
 - 🔭 I’m working on Node.Js
@@ -32,6 +30,10 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript etc. Y
 [![Saarthak's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saarthak_Slathia&theme=algolia)](https://github.com/Saarthak-Slathia/Coronavirus-Tracker) -->
 
 <!--  --- -->
+
+
+![hi](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/any%20key.gif)
+
 
 #### That's not over yet! Check out my repositories and if you find them useful, give it a ⭐ You can also find my contribution activity below ⬇
 ### Thank You 🎉 
