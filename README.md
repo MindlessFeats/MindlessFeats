@@ -39,10 +39,10 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript etc. Y
 
 ---
 
-### Programming Activity
+<!-- ### Programming Activity
 
 [![Saarthak's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saarthak_Slathia&theme=algolia)](https://github.com/Saarthak-Slathia/Coronavirus-Tracker)
-
+ -->
 <!--  --- -->
 
 
