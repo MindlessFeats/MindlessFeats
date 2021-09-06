@@ -12,7 +12,6 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
  
 ---
 
-### 📝👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=Saarthak-Slathia)
 
 
