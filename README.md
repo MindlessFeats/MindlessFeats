@@ -51,4 +51,5 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
 ![Thank You](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/hugging_face.gif)
 
 
+![](https://komarev.com/ghpvc/?username=Saarthak-Slathia)
 
