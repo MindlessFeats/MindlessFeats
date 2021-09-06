@@ -12,6 +12,10 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
  
 ---
 
+### 📝👀 Profile Views
+![](https://komarev.com/ghpvc/?username=Saarthak-Slathia)
+
+
 ### 📈 My Github Stats  
 
 ![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saarthak-Slathia&theme=react&show_icons=true)
@@ -49,7 +53,4 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
 ### Thank You 🎉 
 
 ![Thank You](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/hugging_face.gif)
-
-
-![](https://komarev.com/ghpvc/?username=Saarthak-Slathia)
 
