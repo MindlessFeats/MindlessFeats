@@ -12,7 +12,7 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
  
 ---
 
-<!-- ![](https://komarev.com/ghpvc/?username=Saarthak-Slathia) -->
+![](https://komarev.com/ghpvc/?username=Saarthak-Slathia)
 
 
 ### 📈 My Github Stats  
