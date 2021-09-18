@@ -29,9 +29,7 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
 
 ### Most used languages
 
-![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Saarthak-Slathia&layout=compact&show_icons=true&show_icons=true&theme=gruvbox&hide-langs=html,css&langs_count=15)
-
----
+![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Saarthak-Slathia&layout=compact&show_icons=true&show_icons=true&theme=gruvbox&hide-langs=html,css)
 
 
 
@@ -50,9 +48,8 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
 ![Wow](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/hushed_face.gif)
 ![Wooww!!!](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/exploding_head.gif)
 
-<!-- ### Programming Activity
-[![Saarthak Slathia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=slathia)](https://github.com/anuraghazra/github-readme-stats) -->
-
+### Programming Activity
+[![Saarthak Slathia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=slathia&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats&layuout=compact&theme=gruvbox)
 
 
 ![hi](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/cat.gif?raw=true)
