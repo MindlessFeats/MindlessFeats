@@ -21,8 +21,6 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
 
 ---
 
-
-
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Saarthak-Slathia&theme=react&border=61DAFB&fire=DDB80F"/>
 
 <br>
@@ -30,8 +28,6 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
 ### Most used languages
 
 ![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Saarthak-Slathia&layout=compact&show_icons=true&show_icons=true&theme=github_dark&hide-langs=html,css)
-
-
 
 ---
 
