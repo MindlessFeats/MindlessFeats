@@ -12,7 +12,12 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
  
 ---
 
-![](https://komarev.com/ghpvc/?username=Saarthak-Slathia)
+![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&labelColor=3d66ff&color=3d66ff&logoColor=ffffff)
+![](https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&labelColor=3d66ff&color=3d66ff&logoColor=ffffff)
+![](https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&labelColor=3d66ff&color=3d66ff&logoColor=ffffff)
+![](https://img.shields.io/badge/react-informational?style=for-the-badge&logo=react&labelColor=3d66ff&color=3d66ff&logoColor=ffffff)
+![](https://img.shields.io/badge/html5-informational?style=for-the-badge&logo=html5&labelColor=3d66ff&color=3d66ff&logoColor=ffffff)
+![](https://img.shields.io/badge/css3-informational?style=for-the-badge&logo=css3&labelColor=3d66ff&color=3d66ff&logoColor=ffffff)
 
 ### 📈 My Github Stats  
 
@@ -52,6 +57,7 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
 ![](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/hushed_face.gif)
 ![](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/exploding_head.gif)
 
+![](https://komarev.com/ghpvc/?username=Saarthak-Slathia)
 
 #### Also check out my repositories below and if you find them useful, give it a ⭐ You can also find my contribution activity below ⬇
 ## Thank You 🎉 
