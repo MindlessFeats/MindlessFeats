@@ -49,6 +49,7 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
  <img width="50" src="https://camo.githubusercontent.com/5c5b56fb4d7e1edc7b5322a6797df3775d486ff2dd3e95d72e57be45179bf65b/68747470733a2f2f696d672d7072656d69756d2e666c617469636f6e2e636f6d2f706e672f3531322f313337372f7072656d69756d2f313337373234332e706e673f746f6b656e3d6578703d313633323033393833367e686d61633d3035353535346562383336313234336435353831623664363231626463333836">
  </div>
 
+---
 
 ### Programming Activity - (Last 7 days)
 [![Saarthak Slathia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=slathia&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats&layuout=compact&theme=gruvbox)
@@ -56,6 +57,8 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
 
 ![](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/hushed_face.gif)
 ![](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/exploding_head.gif)
+
+---
 
 ![](https://komarev.com/ghpvc/?username=Saarthak-Slathia)
 
