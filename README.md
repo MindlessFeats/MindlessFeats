@@ -64,8 +64,6 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
 ![hi](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/cat.gif?raw=true)
  
 
-#### That's not over yet! Check out my repositories and if you find them useful, give it a ⭐ You can also find my contribution activity below ⬇
+#### Also check out my repositories below and if you find them useful, give it a ⭐ You can also find my contribution activity below ⬇
 ### Thank You 🎉 
-
-![Thank You](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/hugging_face.gif)
 
