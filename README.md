@@ -63,6 +63,6 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
 ![](https://komarev.com/ghpvc/?username=Saarthak-Slathia)
 
 #### Also check out my repositories below and if you find them useful, give it a ⭐ You can also find my contribution activity below ⬇
-## Thank You 🎉 
+## Thank You 🎉
 
 ![](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/winking_face.gif)
