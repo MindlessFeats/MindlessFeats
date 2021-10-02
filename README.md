@@ -54,7 +54,6 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
 ### Programming Activity - (Last 7 days)
 [![Saarthak Slathia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=slathia&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats&layuout=compact&theme=gruvbox)
 
-
 ![](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/hushed_face.gif)
 ![](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/exploding_head.gif)
 
