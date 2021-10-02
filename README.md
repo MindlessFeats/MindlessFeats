@@ -25,7 +25,7 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
 
 ---
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Saarthak-Slathia&theme=tokyonight&border=61DAFB&fire=DDB80F"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Saarthak-Slathia&theme=holi-theme&border=61DAFB&fire=DDB80F"/>
 
 ### Most used languages
 
