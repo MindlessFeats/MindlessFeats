@@ -10,7 +10,7 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
 - 🚀 I like Space Science ! 🌌
 - 🏏 Favourite Sport: Cricket
 - 🔞 Age: 12+ 🖋
- 
+
 ---
 
 ![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&labelColor=3d66ff&color=3d66ff&logoColor=ffffff)
