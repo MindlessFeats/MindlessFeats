@@ -20,7 +20,7 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
 ![](https://img.shields.io/badge/html5-informational?style=for-the-badge&logo=html5&labelColor=3d66ff&color=3d66ff&logoColor=ffffff)
 ![](https://img.shields.io/badge/css3-informational?style=for-the-badge&logo=css3&labelColor=3d66ff&color=3d66ff&logoColor=ffffff)
 
-### 📈 My Github Stats  
+### 📈 My Github Stats
 
 ![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saarthak-Slathia&theme=github_dark&show_icons=true)
 
