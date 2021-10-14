@@ -33,7 +33,7 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
 ![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Saarthak-Slathia&layout=compact&show_icons=true&show_icons=true&theme=github_dark&hide-langs=html,css)
 
 ---
- 
+
 ### Programming Languages and Tools: 
  <div>
   <img width="50" src="https://camo.githubusercontent.com/91624b4794cb98081ea55063865721be4b4399472c81e66b89b37fd07aad1d92/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352e706e67">
