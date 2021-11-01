@@ -2,7 +2,7 @@
  
 I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, ReactJs etc. You can check it out 👇🏻. Also take a look at my Github Stats.
 
-#### My Info: 
+#### My Info:
 
 - 🔭 I’m working on Node.Js
 - 🌱 I’m currently learning Backend Development.
