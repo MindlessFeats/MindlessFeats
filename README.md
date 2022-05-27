@@ -9,7 +9,7 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
 - ⚡ Fun fact: I am good in Cricket
 - 🚀 I like Space Science ! 🌌
 - 🏏 Favourite Sport: Cricket
-- 🔞 Age: 12+ 🖋
+- 🔞 Age: 13+ 🖋
 
 ---
 
