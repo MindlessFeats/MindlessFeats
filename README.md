@@ -2,6 +2,8 @@
  
 I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, ReactJs etc. You can check it out 👇🏻. Also take a look at my Github Stats.
 
+![](https://komarev.com/ghpvc/?username=Saarthak-Slathia)
+
 #### My Info:
  
 - 🔭 I’m working on Node.Js
@@ -59,8 +61,6 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
 ![](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/exploding_head.gif)
 
 ---
-
-![](https://komarev.com/ghpvc/?username=Saarthak-Slathia)
 
 #### Also check out my repositories below and if you find them useful, give it a ⭐ You can also find my contribution activity below ⬇
 ## Thank You 🎉
