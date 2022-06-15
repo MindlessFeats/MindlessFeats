@@ -3,36 +3,37 @@
 I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, ReactJs etc. You can check it out 👇🏻. Also take a look at my Github Stats.
 
 ![](https://komarev.com/ghpvc/?username=Saarthak-Slathia)
+<a href="https://github.com/Saarthak-Slathia?tab=followers"><img src="https://img.shields.io/github/followers/Saarthak-Slathia?label=Followers&style=social" alt="GitHub Badge"></a>
 
 #### My Info:
  
-- 🔭 I’m working on Node.Js
-- 🌱 I’m currently learning Backend Development.
-- ⚡ Fun fact: I am good in Cricket
-- 🚀 I like Space Science ! 🌌
+- 🔭 I’m working on Java
+- 🌱 I’m currently learning Java Development.
+- ⚡ Fun fact: I love Cricket
+- 🚀 I like Astrophysics ! 🌌
 - 🏏 Favourite Sport: Cricket
 - 🔞 Age: 13+ 🖋
 
 ---
 
-![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&labelColor=3d66ff&color=3d66ff&logoColor=ffffff)
-![](https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&labelColor=3d66ff&color=3d66ff&logoColor=ffffff)
-![](https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&labelColor=3d66ff&color=3d66ff&logoColor=ffffff)
-![](https://img.shields.io/badge/react-informational?style=for-the-badge&logo=react&labelColor=3d66ff&color=3d66ff&logoColor=ffffff)
-![](https://img.shields.io/badge/html5-informational?style=for-the-badge&logo=html5&labelColor=3d66ff&color=3d66ff&logoColor=ffffff)
-![](https://img.shields.io/badge/css3-informational?style=for-the-badge&logo=css3&labelColor=3d66ff&color=3d66ff&logoColor=ffffff)
+![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&labelColor=06283D&color=06283D&logoColor=ffffff)
+![](https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&labelColor=06283D&color=06283D&logoColor=ffffff)
+![](https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&labelColor=06283D&color=06283D&logoColor=ffffff)
+![](https://img.shields.io/badge/react-informational?style=for-the-badge&logo=react&labelColor=06283D&color=06283D&logoColor=ffffff)
+![](https://img.shields.io/badge/html5-informational?style=for-the-badge&logo=html5&labelColor=06283D&color=06283D&logoColor=ffffff)
+![](https://img.shields.io/badge/css3-informational?style=for-the-badge&logo=css3&labelColor=06283D&color=06283D&logoColor=ffffff)
 
 ### 📈 My Github Stats
 
-![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saarthak-Slathia&theme=github_dark&show_icons=true)
+ <br/>
 
----
+   ![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saarthak-Slathia&theme=gotham&show_icons=true)
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=Saarthak-Slathia&theme=gotham&border=61DAFB&fire=DDB80F"/>
+ <br/>
+ 
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Saarthak-Slathia&theme=holi-theme&border=61DAFB&fire=DDB80F"/>
-
-### Most used languages
-
-![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Saarthak-Slathia&layout=compact&show_icons=true&show_icons=true&theme=github_dark&hide-langs=html,css)
+![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Saarthak-Slathia&layout=compact&show_icons=true&show_icons=true&theme=gotham&hide=html,css&langs_count=4)
+[![Saarthak Slathia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=slathia&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats&layuout=compact&theme=gotham)
 
 ---
 
@@ -49,20 +50,19 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
  
  <img width="50" src="https://camo.githubusercontent.com/5d6bd5caa91b0cc83df372c1a2c23c15a8a6a3c63bbffb4b2fb54e406cce9fc4/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3733332f3733333630392e706e67">
  <img width="50" src="https://camo.githubusercontent.com/446a67a1ebe2f1cba46113cc68f46610c49ab75885c2d19bb4453d70f3534f97/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f36342f3930362f3930363332342e706e67">
- <img width="50" src="https://camo.githubusercontent.com/5c5b56fb4d7e1edc7b5322a6797df3775d486ff2dd3e95d72e57be45179bf65b/68747470733a2f2f696d672d7072656d69756d2e666c617469636f6e2e636f6d2f706e672f3531322f313337372f7072656d69756d2f313337373234332e706e673f746f6b656e3d6578703d313633323033393833367e686d61633d3035353535346562383336313234336435353831623664363231626463333836">
+ <img width="50" src="https://img.icons8.com/color/48/000000/python.png">
  </div>
 
 ---
 
-### Programming Activity - (Last 7 days)
-[![Saarthak Slathia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=slathia&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats&layuout=compact&theme=gruvbox)
+<a href="https://github.com/Saarthak-Slathia/github-readme-activity-graph"><img alt="Saarthak Slathia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saarthak-Slathia&bg_color=0D1117&color=ffffff&line=2ECC71&point=FFFFFF&hide_border=true" /></a>
+
+---
 
 ![](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/hushed_face.gif)
 ![](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/exploding_head.gif)
 
----
-
-#### Also check out my repositories below and if you find them useful, give it a ⭐ You can also find my contribution activity below ⬇
+#### Also check out my repositories below and if you find them useful, give it a ⭐ You can also find my contribution graph above ⬆️
 ## Thank You 🎉
 
 ![](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/winking_face.gif)
