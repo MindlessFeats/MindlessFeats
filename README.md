@@ -1,5 +1,3 @@
-<br />
-
 # Hi There ![ Hi There](https://github.com/Saarthak-Slathia/Saarthak-Slathia/blob/main/waving_hand.gif)
  
 I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, ReactJs etc. You can check it out 👇🏻. Also take a look at my Github Stats.
