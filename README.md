@@ -31,11 +31,18 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
    <img src="http://github-readme-streak-stats.herokuapp.com?user=Saarthak-Slathia&theme=gotham&border=61DAFB&fire=DDB80F"/>
  <br/>
  
+ ---
+ 
 
 ![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Saarthak-Slathia&layout=compact&show_icons=true&show_icons=true&theme=gotham&hide=html,css&langs_count=4)
 [![Saarthak Slathia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=slathia&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats&layuout=compact&theme=gotham)
 
 ---
+
+<a href="https://github.com/Saarthak-Slathia/github-readme-activity-graph"><img alt="Saarthak Slathia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saarthak-Slathia&bg_color=0D1117&color=ffffff&line=2ECC71&point=FFFFFF&hide_border=true" /></a>
+
+---
+
 
 ### Programming Languages and Tools: 
  <div>
@@ -52,10 +59,6 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
  <img width="50" src="https://camo.githubusercontent.com/446a67a1ebe2f1cba46113cc68f46610c49ab75885c2d19bb4453d70f3534f97/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f36342f3930362f3930363332342e706e67">
  <img width="50" src="https://img.icons8.com/color/48/000000/python.png">
  </div>
-
----
-
-<a href="https://github.com/Saarthak-Slathia/github-readme-activity-graph"><img alt="Saarthak Slathia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saarthak-Slathia&bg_color=0D1117&color=ffffff&line=2ECC71&point=FFFFFF&hide_border=true" /></a>
 
 ---
 
