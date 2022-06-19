@@ -6,7 +6,7 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
 <a href="https://github.com/Saarthak-Slathia?tab=followers"><img src="https://img.shields.io/github/followers/Saarthak-Slathia?label=Followers&style=social" alt="GitHub Badge"></a>
 
 #### My Info:
- 
+
 - 🔭 I’m working on Java
 - 🌱 I’m currently learning Java Development.
 - ⚡ Fun fact: I love Cricket
