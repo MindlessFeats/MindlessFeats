@@ -3,7 +3,6 @@
 I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, ReactJs etc. You can check it out 👇🏻. Also take a look at my Github Stats.
 
 ![](https://komarev.com/ghpvc/?username=Saarthak-Slathia)
-<a href="https://github.com/Saarthak-Slathia?tab=followers"><img src="https://img.shields.io/github/followers/Saarthak-Slathia?label=Followers&style=social" alt="GitHub Badge"></a>
 
 #### My Info:
 
