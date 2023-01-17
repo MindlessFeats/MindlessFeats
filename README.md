@@ -36,9 +36,6 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
 ![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Saarthak-Slathia&layout=compact&show_icons=true&show_icons=true&theme=gotham&hide=html,css&langs_count=4)
 [![Saarthak Slathia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=slathia&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats&layuout=compact&theme=gotham)
 
----
-
-<a href="https://github.com/Saarthak-Slathia/github-readme-activity-graph"><img alt="Saarthak Slathia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saarthak-Slathia&bg_color=0D1117&color=ffffff&line=2ECC71&point=FFFFFF&hide_border=true" /></a>
 
 ---
 
