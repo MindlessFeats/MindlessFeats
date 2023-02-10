@@ -6,12 +6,12 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
 
 #### My Info:
 
-- 🔭 I’m working on Java
-- 🌱 I’m currently learning Java Development.
-- ⚡ Fun fact: I love Cricket
+- 🔭 I’m working on React and Javascript
+- 🌱 I’m currently mastering ReactJs.
+- ⚡ Fun fact: I love Chess
 - 🚀 I like Astrophysics ! 🌌
 - 🏏 Favourite Sport: Cricket
-- 🔞 Age: 13+ 🖋
+- 🔞 Age: 14 🖋
 
 ---
 
