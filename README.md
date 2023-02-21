@@ -11,7 +11,6 @@ I am Saarthak Slathia. I have multiple repositories of Python, JavaScript, React
 - ⚡ Fun fact: I love Chess
 - 🚀 I like Astrophysics ! 🌌
 - 🏏 Favourite Sport: Cricket
-- 🔞 Age: 14 🖋
 
 ---
 
