@@ -1,0 +1,217 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Poppins:wght@300;400&family=Roboto&display=swap");
+
+:root {
+  --primary: #05bfdb;
+  --secondary: #088395;
+  --tertiary: #0a4d68;
+  --cyan: #00ffca;
+  --light: #f0f0f0;
+  --dark: #050505;
+  --dark-blue: #0b2447;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: lightcyan;
+  font-family: "Poppins", sans-serif;
+  transition: all 0.3s ease-in-out;
+}
+
+body {
+  background: var(--dark);
+}
+
+.hero {
+  height: 100vh;
+  background: url("./src/banner.jpg") no-repeat center center;
+  background-size: cover;
+  clip-path: polygon(50% 0%, 100% 0, 100% 60%, 100% 88%, 25% 96%, 0 89%, 0 0);
+}
+
+header {
+  width: 100%;
+  background: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 6rem;
+}
+
+header .title {
+  color: var(--primary);
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 2rem;
+  margin: 2rem;
+}
+
+header .title a {
+  text-decoration: none;
+  color: inherit;
+}
+
+header .title a:hover {
+  color: var(--secondary);
+}
+
+header .links ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header .links ul li {
+  list-style: none;
+  margin: 1rem;
+}
+
+header .links ul li a {
+  color: var(--cyan);
+  margin: 0 2rem;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+  text-decoration: none;
+}
+
+header .links ul li a:hover {
+  color: var(--light);
+  text-shadow: 0 0 5px var(--cyan);
+}
+
+/* home */
+.home {
+  width: 100%;
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.home .header {
+  font-size: 5rem;
+  color: var(--light);
+  text-shadow: 0 0 7px var(--light);
+}
+
+.home .sub_header {
+  text-shadow: 0 0 5px var(--cyan);
+  color: var(--primary);
+  font-size: 1.4rem;
+}
+
+/* About */
+
+#about {
+  padding: 5rem;
+}
+
+#about .about_title {
+  font-size: 2.4rem;
+  color: var(--primary);
+  text-shadow: 0 0 2px var(--cyan);
+}
+
+#about .about_title::before {
+  content: "";
+  position: absolute;
+  width: 100px;
+  margin-top: 3.2rem;
+  height: 2px;
+  background: var(--cyan);
+}
+
+#about p {
+  margin-top: 1rem;
+  font-size: 1.1rem;
+  letter-spacing: 2px;
+  color: var(--light);
+}
+
+#about p i {
+  letter-spacing: 1px;
+}
+
+/* Project */
+#projects {
+  margin: 5rem;
+}
+
+#projects .project_title {
+  font-size: 2.4rem;
+  color: var(--primary);
+  text-shadow: 0 0 2px var(--cyan);
+}
+
+#projects .project_title::before {
+  content: "";
+  position: absolute;
+  width: 100px;
+  margin-top: 3.5rem;
+  height: 2px;
+  background: var(--cyan);
+}
+
+#projects .creations {
+  margin: 2rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+#projects .creations .card {
+  width: 540px;
+  height: 300px;
+  margin: 2rem;
+  background: var(--secondary);
+  padding: 2rem 2.5rem;
+}
+
+#projects .creations .card .card_title {
+  color: var(--dark-blue);
+}
+
+#projects .creations .card .card_desc {
+  letter-spacing: 1px;
+  text-align: justify;
+  margin: 1rem 0;
+}
+
+#projects .creations .card .card_link {
+  color: var(--cyan);
+}
+
+/* Skills */
+#skills {
+  padding: 5rem;
+}
+
+#skills .title {
+  font-size: 2.4rem;
+  color: var(--primary);
+  text-shadow: 0 0 2px var(--cyan);
+}
+
+#skills .title::before {
+  content: "";
+  position: absolute;
+  width: 100px;
+  margin-top: 3.5rem;
+  height: 2px;
+  background: var(--cyan);
+}
+
+#skills ul {
+  margin-top: 2rem;
+}
+
+#skills ul li {
+  margin: 1rem 0;
+  list-style: none;
+  color: var(--light);
+  text-shadow: 0 0 2px var(--cyan);
+  font-size: 1.3rem;
+}
