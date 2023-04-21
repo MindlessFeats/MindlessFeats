@@ -1,7 +1,7 @@
 
-# Hi, I'm MindlessFeats
+# I'm MindlessFeats
 
-I'm a JavaScript developer who has expertise in ReactJs, Frontend and Backend development.
+A JavaScript developer who has expertise in ReactJs, Frontend and Backend development.
 
 ### My Skills
 - JavaScript
