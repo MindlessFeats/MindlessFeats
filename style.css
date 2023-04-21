@@ -99,6 +99,7 @@ header .links ul li a:hover {
 .home .sub_header {
   text-shadow: 0 0 5px var(--cyan);
   color: var(--primary);
+  text-align: center;
   font-size: 1.4rem;
 }
 
@@ -214,4 +215,140 @@ header .links ul li a:hover {
   color: var(--light);
   text-shadow: 0 0 2px var(--cyan);
   font-size: 1.3rem;
+}
+
+@media (max-width: 1000px) {
+  header {
+    flex-direction: column;
+    height: auto;
+  }
+
+  header ul li {
+    margin: 0;
+  }
+
+  header h1.title {
+    margin-bottom: 0rem;
+    font-size: 1.6rem;
+  }
+
+  header .links ul li {
+    margin: inherit 10px;
+  }
+
+  header .links ul li a {
+    font-size: 0.9rem;
+  }
+
+  /* Home */
+  .home .header {
+    font-size: 3rem;
+  }
+
+  .home .sub_header {
+    font-size: 1.2rem;
+    color: var(--primary);
+    text-shadow: 0 0 5px var(--primary);
+  }
+
+  #projects .card {
+    margin: 2rem 0;
+    width: auto !important;
+    height: auto !important;
+  }
+
+  #projects .card .card_title {
+    font-size: 1.2rem;
+  }
+
+  #projects .card .card_desc {
+    font-size: 0.9rem;
+  }
+
+  #projects .project_title,
+  #about .about_title,
+  #skills .title {
+    font-size: 1.8rem;
+  }
+}
+
+@media (max-width: 600px) {
+  header .links ul li {
+    margin: 0;
+  }
+
+  header .links ul li a {
+    font-size: 0.8rem;
+  }
+
+  #projects .card {
+    padding: 1.5rem 1.7rem !important;
+  }
+
+  #projects .card .card_title {
+    font-size: 1rem;
+  }
+
+  #projects .card .card_desc {
+    font-size: 0.7rem;
+  }
+}
+
+@media (max-width: 500px) {
+  header .links ul li a {
+    font-size: 0.6rem;
+    margin: 0 10px;
+  }
+
+  .home .header {
+    font-size: 1.7rem;
+  }
+
+  .home .sub_header {
+    font-size: 1rem;
+    margin: 0 15px;
+  }
+
+  .hero {
+    clip-path: none;
+  }
+
+  #about,
+  #projects,
+  #skills {
+    padding: 5rem 2rem;
+  }
+
+  #about p {
+    font-size: 0.9rem;
+  }
+
+  #projects .project_title,
+  #about .about_title,
+  #skills .title {
+    font-size: 1.2rem;
+  }
+
+  #projects .project_title::before,
+  #about .about_title::before,
+  #skills .title::before {
+    content: "";
+    position: absolute;
+    width: 0px;
+    height: 0;
+  }
+
+  #projects {
+    margin: 0 2rem;
+    padding: 0 !important;
+  }
+
+  #projects .creations {
+    margin: 0;
+  }
+
+  #projects .creations .card {
+    width: 100%;
+    margin: 1rem 0;
+  }
 }
