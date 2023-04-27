@@ -9,6 +9,8 @@ A JavaScript developer who has expertise in ReactJs, Frontend and Backend develo
 - NodeJs and Express
 - Frontend
 
+#### Join my Discord community -》 https://discord.gg/643Mnvr5
+
 <!--
 ## 🔗 Links
 [![spotify](https://github.com/MindlessFeats/MindlessFeats/blob/68efde7d7eb7cddab959bf229ffb337761adf308/assets/spotify.png)](https://open.spotify.com/user/314qmik5zvcdmq7bsalpsapphw6e)
