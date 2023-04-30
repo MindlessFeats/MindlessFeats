@@ -9,7 +9,21 @@ A JavaScript developer who has expertise in ReactJs, Frontend and Backend develo
 - NodeJs and Express
 - Frontend
 
+---
+
 #### Join my Discord community -》 https://discord.gg/szTT5j9vCB
+What you will find here:
+- A unique and personalized community experience
+- Can apply for moderatorship early on as it is easy
+- Access to high quality music and streaming
+- Chat about your hobbies and interests with others
+- Post fun memes and content.
+- Gaming channels and voice channels
+- Personalized roles 
+- High-quality music and bots
+- Fitness and Sports channel
+- Art channel
+---
 
 <!--
 ## 🔗 Links
