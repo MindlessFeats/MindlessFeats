@@ -9,7 +9,7 @@ A JavaScript developer who has expertise in ReactJs, Frontend and Backend develo
 - NodeJs and Express
 - Frontend
 
-#### Join my Discord community -》 https://discord.gg/643Mnvr5
+#### Join my Discord community -》 https://discord.gg/szTT5j9vCB
 
 <!--
 ## 🔗 Links
