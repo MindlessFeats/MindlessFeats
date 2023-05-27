@@ -11,7 +11,7 @@ A JavaScript developer who has expertise in ReactJs, Frontend and Backend develo
 
 ---
 
-#### Join my Discord community -》 https://discord.gg/szTT5j9vCB
+### <a href="https://discord.gg/szTT5j9vCB"> Join the Hub </a>
 What you will find here:
 - A unique and personalized community experience
 - Access to high quality music and streaming
